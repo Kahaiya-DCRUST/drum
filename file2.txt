@@ -1,0 +1,1 @@
+copy nul > file2.txt
